@@ -4,3 +4,6 @@
 
 # Conventional directory for build output.
 build/
+
+# Ignore Flow Dart SDK package
+packages/flow-dart-sdk
